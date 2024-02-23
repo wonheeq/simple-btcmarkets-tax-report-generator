@@ -6,6 +6,7 @@ Additionally, unaccounted sales and unrealised profits/losses are displayed, alo
 ## Installation
 
 Download and extract.
+Compile:
 ```bash
 javac *.java
 ```
